@@ -17,6 +17,7 @@ updated: 2017-09-20
 ```bash
 -v           # --verbose
 -vv          # Even more verbose
+-s           # --silent: Silent or quiet mode. Don't show progress meter or error messages. Makes Curl mute.
 ```
 
 ```bash
